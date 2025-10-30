@@ -1,85 +1,93 @@
-<!-- Profile Header -->
-<h1 align="center">Hey there 👋, I'm <span style="color:#00bfff;">Tudumu Abhilash</span></h1>
-<h3 align="center">🚀 Frontend Developer crafting seamless digital experiences with React & Strapi</h3>
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=140&section=header"/>
+
+<h1 align="center">
+  👋 Hey, I'm <span style="color:#00FFFF;">Tudumu Abhilash</span>
+</h1>
+
+<h3 align="center">
+  🚀 Frontend Developer | Building Aesthetic & Interactive Web Experiences  
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Interactive+Web+Experiences;React+%7C+Strapi+%7C+OpenCV+Enthusiast;Design+%26+Code+with+Purpose" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Transforming+Ideas+Into+Digital+Reality;React+%7C+Strapi+%7C+OpenCV+Enthusiast;Frontend+Design+with+Purpose+and+Passion" alt="Typing Animation" />
 </p>
 
 ---
 
-### 💫 About Me
+### 🪄 About Me  
 
-- 🔭 Currently building **[Bageecha – Restaurant Web Page](https://tudumuabhilash.github.io/Bageecha/)**  
-- 🌱 Learning **React**, **Strapi**, **OpenCV**, and **AI-driven Web Applications**  
-- 💬 Ask me about **Frontend Animations, React Hooks, and UI/UX Design**  
-- 📫 Reach me at **tabhilash814@gmail.com**  
-- ⚡ Fun fact: *I think I’m funny 😄*
+💻 Currently working on **[Bagicha – Garden Restaurant Website](https://tudumuabhilash.github.io/Bageecha/)**  
+🌱 Learning **React**, **Strapi**, **OpenCV**, and **AI-driven Web Applications**  
+🎯 Exploring creative UI/UX patterns with **GSAP** and **Framer Motion**  
+📫 Reach me at: **tabhilash814@gmail.com**  
+⚡ Fun fact: *I debug faster when I play music 🎧*
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/tudumu-abhilash" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/abhi_issac_" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:tabhilash814@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/tudumu-abhilash" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/abhi_issac_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:tabhilash814@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/tudumuabhilash" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🧠 Tech Arsenal
+### ⚙️ Tech Stack  
+
 <p align="center">
-  <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,nodejs,express,python,java,dotnet,opencv,figma,photoshop,git,mysql,postgres,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind,bootstrap,nodejs,express,python,dotnet,mysql,postgres,opencv,figma,photoshop,git,vercel" />
 </p>
 
 ---
 
-### 🧩 Languages and Tools
+### 💡 Featured Project  
+🧩 **[Bagicha – Garden Restaurant Website](https://tudumuabhilash.github.io/Bageecha/)**  
+A fully responsive restaurant website designed with React, featuring animations, menu sections, and Strapi CMS integration.
+
+---
+
+### 📊 GitHub Stats  
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="45" height="45"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=tudumuabhilash&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tudumuabhilash&theme=react&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF" height="170px"/>
 </p>
 
----
-
-### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tudumuabhilash&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tudumuabhilash&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tudumuabhilash&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tudumuabhilash&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF" height="140px"/>
 </p>
 
 ---
 
-### 🏆 Achievements
+### 🏆 Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tudumuabhilash&theme=algolia&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tudumuabhilash&theme=onestar&no-frame=true&row=1&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-### ✍️ Latest Blog Posts
+### ✍️ Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Building a Restaurant Website with React and Strapi](#)
+- [Building a Restaurant Website with React & Strapi](#)
 - [Animating Web Interfaces with GSAP](#)
-- [Integrating Strapi CMS in Frontend Projects](#)
+- [Optimizing Frontend Performance in React](#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-### 🌀 Quote of the Day
-> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
+### 🪶 Quote of the Day  
+> “Great web design without functionality is like a sports car with no engine.” – *Paul Cookson*
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tudumuabhilash&theme=react-dark&bg_color=0D1117&hide_border=true&color=00FFFF&line=00FFFF" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer"/>
 </p>
